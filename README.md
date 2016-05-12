@@ -1,8 +1,8 @@
-# Simple Overlay Network
-### Program Description: 
+## Simple Overlay Network
+#### Program Description: 
 Simple Overlay Network is a program written in C that implements Internet routers on edge machines and then creates a network of overlay nodes based neighboring connections. The overlay and network layers are both implemented as processes on each node in the overlay network
 
-### Contents
+#### Contents
 * topology 
  * topology.dat - list of neighbors and edge costs in format (host1 host2 cost) <space>
  * topology.c - helper functions to parse the topology.dat file
